@@ -9,10 +9,10 @@
 <img width="1212" alt="image" src="https://user-images.githubusercontent.com/45315180/112446161-96b4c580-8d58-11eb-84fa-2244e51d74d2.png">
 <img width="1307" alt="image" src="https://user-images.githubusercontent.com/45315180/112446394-d1b6f900-8d58-11eb-96b4-bb7646552ba3.png">
 ```bash
-# Add variable to env
+Add variable to env
 declare -x <varname>
 
-# Remove variable from env
+Remove variable from env
 declare +x <varname>
 ```
 <img width="1312" alt="image" src="https://user-images.githubusercontent.com/45315180/112451192-e3e76600-8d5d-11eb-94c1-1043ea592a47.png">
