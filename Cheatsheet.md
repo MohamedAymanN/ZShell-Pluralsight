@@ -98,3 +98,11 @@ ls *pdf
 ```bash
 export EDITOR=nano
 ```
+
+<img width="1272" alt="image" src="https://user-images.githubusercontent.com/45315180/112433853-80ecd380-8d4b-11eb-9afc-e4cfd69c0902.png">
+
+## Find all working processes
+```bash
+ps
+```
+
