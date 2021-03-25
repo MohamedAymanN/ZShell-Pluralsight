@@ -39,6 +39,7 @@ read <varname>
 <img width="595" alt="image" src="https://user-images.githubusercontent.com/45315180/112458086-147ece00-8d65-11eb-92e3-711a92c513c1.png">
 ## Test Command
 <img width="1316" alt="image" src="https://user-images.githubusercontent.com/45315180/112458812-e221a080-8d65-11eb-93a2-19e16046410e.png">
+
 ```bash
 [[-f <filename>]]: Tests for a file
 [[-d <filename>]]: Tests for a directory
