@@ -20,6 +20,7 @@ declare +x <varname>
 <img width="1312" alt="image" src="https://user-images.githubusercontent.com/45315180/112451192-e3e76600-8d5d-11eb-94c1-1043ea592a47.png">
 <img width="1312" alt="image" src="https://user-images.githubusercontent.com/45315180/112451538-4b051a80-8d5e-11eb-80d9-daf452e8c9fb.png">
 <img width="1187" alt="image" src="https://user-images.githubusercontent.com/45315180/112451717-7b4cb900-8d5e-11eb-916e-aea3eee13da9.png">
+
 ## Use `-r` flag to make variable in declare (read_only)
 # Using conditions
 <img width="1357" alt="image" src="https://user-images.githubusercontent.com/45315180/112453611-8c96c500-8d60-11eb-94b2-3ec2a2158f4a.png">
@@ -36,6 +37,7 @@ read <varname>
 <img width="1325" alt="image" src="https://user-images.githubusercontent.com/45315180/112457083-15fbc680-8d64-11eb-8526-09b86a18a62f.png">
 <img width="1316" alt="image" src="https://user-images.githubusercontent.com/45315180/112457207-3166d180-8d64-11eb-8d4b-e02d76fd29fa.png">
 <img width="1316" alt="image" src="https://user-images.githubusercontent.com/45315180/112457367-5ce9bc00-8d64-11eb-8fcb-129b0776dbed.png">
+
 ### Use `escape` + `.` to get the defined var
 <img width="595" alt="image" src="https://user-images.githubusercontent.com/45315180/112458086-147ece00-8d65-11eb-92e3-711a92c513c1.png">
 ## Test Command
