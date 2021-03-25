@@ -2,6 +2,7 @@
 <img width="1322" alt="image" src="https://user-images.githubusercontent.com/45315180/112444880-2c4f5580-8d57-11eb-95a9-e203fe126266.png">
 <img width="1317" alt="image" src="https://user-images.githubusercontent.com/45315180/112444953-48eb8d80-8d57-11eb-9d07-132c6966d76f.png">
 <img width="1310" alt="image" src="https://user-images.githubusercontent.com/45315180/112445025-5c96f400-8d57-11eb-987e-727e19d31ae1.png">
+
 ## `set` has local shell variables, `env` has environment variables
 ## we can `export` local variables to set them in the `env` scope
 ## We can use the variable for a certain command as : `EDITOR=vim crontab -e`
