@@ -28,6 +28,7 @@ declare +x <varname>
 <img width="1332" alt="image" src="https://user-images.githubusercontent.com/45315180/112454238-265e7200-8d61-11eb-8406-659393911f6b.png">
 <img width="1325" alt="image" src="https://user-images.githubusercontent.com/45315180/112454358-455d0400-8d61-11eb-81f8-12dfc3220012.png">
 <img width="1330" alt="image" src="https://user-images.githubusercontent.com/45315180/112454458-5e65b500-8d61-11eb-93e1-b33cc924cdc6.png">
+
 ## Taking user input
 ```bash
 read <varname>
@@ -40,6 +41,7 @@ read <varname>
 
 ### Use `escape` + `.` to get the defined var
 <img width="595" alt="image" src="https://user-images.githubusercontent.com/45315180/112458086-147ece00-8d65-11eb-92e3-711a92c513c1.png">
+
 ## Test Command
 <img width="1316" alt="image" src="https://user-images.githubusercontent.com/45315180/112458812-e221a080-8d65-11eb-93a2-19e16046410e.png">
 
@@ -55,3 +57,29 @@ read <varname>
 ## Use `type` to find each commands type
 
 <img width="1316" alt="image" src="https://user-images.githubusercontent.com/45315180/112457367-5ce9bc00-8d64-11eb-8fcb-129b0776dbed.png">
+
+## Make file executable using `chmod`
+
+# Case
+
+<img width="1392" alt="image" src="https://user-images.githubusercontent.com/45315180/112467215-747a7200-8d6f-11eb-9e38-a429fda7010c.png">
+
+## Short form for date mont
+```bash
+date +%b
+# Outputs Mar etc.
+```
+
+<img width="1324" alt="image" src="https://user-images.githubusercontent.com/45315180/112467834-3467bf00-8d70-11eb-9f8d-3335903cdc91.png">
+<img width="1285" alt="image" src="https://user-images.githubusercontent.com/45315180/112468580-1c446f80-8d71-11eb-819d-8ecda45737b0.png">
+<img width="1293" alt="image" src="https://user-images.githubusercontent.com/45315180/112468781-5f064780-8d71-11eb-9215-b35da4b5a40f.png">
+
+## Function example
+<img width="1155" alt="image" src="https://user-images.githubusercontent.com/45315180/112469498-3d599000-8d72-11eb-838b-42ac622fb932.png">
+
+## Best Practices
+<img width="1209" alt="image" src="https://user-images.githubusercontent.com/45315180/112469906-b0630680-8d72-11eb-8490-97b55f357dc9.png">
+<img width="1394" alt="image" src="https://user-images.githubusercontent.com/45315180/112470050-dbe5f100-8d72-11eb-9f49-c74f73bc8028.png">
+<img width="1394" alt="image" src="https://user-images.githubusercontent.com/45315180/112470062-e1dbd200-8d72-11eb-9c45-3f8fa15116b8.png">
+
+<img width="1291" alt="image" src="https://user-images.githubusercontent.com/45315180/112470497-662e5500-8d73-11eb-852b-4fea588bbfe2.png">
